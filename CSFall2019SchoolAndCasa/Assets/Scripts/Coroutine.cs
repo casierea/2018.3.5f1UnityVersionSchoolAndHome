@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Coroutine : MonoBehaviour
 {
-    [SerializeField] private GameObject Item;
+    [SerializeField] private GameObject Box;
     [SerializeField] private int timer;
 
 
@@ -16,6 +16,6 @@ public class Coroutine : MonoBehaviour
     IEnumerator HideObject()
     {
         yield return new WaitForSeconds(timer);
-        Item.SetActive(false);
+        Box.SetActive(false);
     }
 }

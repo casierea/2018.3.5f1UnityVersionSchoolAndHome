@@ -9,7 +9,10 @@
         <e p="Scripts" t="Include">
           <e p="Coroutine.cs" t="Include" />
           <e p="CubeAnimation.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="ImageController.cs" t="Include" />
           <e p="LightWorks.cs" t="Include" />
+          <e p="TriggerEventbehaviour.cs" t="Include" />
         </e>
       </e>
       <e p="CSFall2019SchoolAndCasa.sln" t="IncludeFlat" />

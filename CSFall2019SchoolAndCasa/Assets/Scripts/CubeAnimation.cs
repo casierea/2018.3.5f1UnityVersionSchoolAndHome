@@ -26,8 +26,8 @@ public class CubeAnimation : MonoBehaviour
       }
    }
 
-   void TopFunction()
-   {
-      Debug.Log("Made it to the top!");
-   }
+   //void TopFunction()
+   //{
+    //  Debug.Log("Made it to the top!");
+   //}
 }
