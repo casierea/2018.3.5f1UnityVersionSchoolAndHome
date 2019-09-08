@@ -25,4 +25,9 @@ public class CubeAnimation : MonoBehaviour
          tutorialanimating = false;
       }
    }
+
+   void TopFunction()
+   {
+      Debug.Log("Made it to the top!");
+   }
 }
