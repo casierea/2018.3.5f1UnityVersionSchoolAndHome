@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="679d73d6-6e1f-4b74-b926-b1c0cd6f47d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSFall2019SchoolAndCasa/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSFall2019SchoolAndCasa/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Coroutine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Coroutine.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +20,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1257" />
+          <entry key="cs" value="1276" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1257" />
+          <entry key="C#" value="1276" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -80,13 +80,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Coroutine.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="238">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
-                <marker date="1567979357621" expanded="false" signature="6:78" ph="..." />
-                <marker date="1567979357621" expanded="true" signature="118:400" ph="{...}" />
-                <marker date="1567979357621" expanded="true" signature="233:283" ph="{...}" />
-                <marker date="1567979357621" expanded="true" signature="312:398" ph="{...}" />
+                <marker date="1567981164494" expanded="false" signature="6:78" ph="..." />
+                <marker date="1567981164494" expanded="true" signature="118:406" ph="{...}" />
+                <marker date="1567981164494" expanded="true" signature="234:284" ph="{...}" />
+                <marker date="1567981164494" expanded="true" signature="313:404" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -182,12 +182,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567975372030</updated>
-      <workItem from="1567975374145" duration="3685000" />
+      <workItem from="1567975374145" duration="4334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3685000" />
+    <option name="totallyTimeSpent" value="4334000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,13 +287,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Coroutine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="238">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
-            <marker date="1567979357621" expanded="false" signature="6:78" ph="..." />
-            <marker date="1567979357621" expanded="true" signature="118:400" ph="{...}" />
-            <marker date="1567979357621" expanded="true" signature="233:283" ph="{...}" />
-            <marker date="1567979357621" expanded="true" signature="312:398" ph="{...}" />
+            <marker date="1567981164494" expanded="false" signature="6:78" ph="..." />
+            <marker date="1567981164494" expanded="true" signature="118:406" ph="{...}" />
+            <marker date="1567981164494" expanded="true" signature="234:284" ph="{...}" />
+            <marker date="1567981164494" expanded="true" signature="313:404" ph="{...}" />
           </folding>
         </state>
       </provider>
