@@ -8,7 +8,6 @@ public class GameActionHandler : MonoBehaviour
     private void Start () {
         gameActionObj.action += Action;
     }
-
     private void Action()
     {
         handlerEvent.Invoke();

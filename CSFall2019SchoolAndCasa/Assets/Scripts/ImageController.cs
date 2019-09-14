@@ -21,8 +21,6 @@ public class ImageController : MonoBehaviour
     {
         imageComponent.fillAmount = dataObj.value;
     }
-	
     //private void Update () {
         //UpdateImageEvent.Invoke();
-    }
 }
