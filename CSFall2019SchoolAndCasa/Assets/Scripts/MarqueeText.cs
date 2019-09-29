@@ -1,12 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 using TMPro;
 
-public class ScrollingText : MonoBehaviour {
+public class MarqueeText : MonoBehaviour {
 
     public TextMeshProUGUI theText;
-    public float marqueeSpeed = 10.0f;
+    public float marqueeSpeed = 5f;
 
     private TextMeshProUGUI copyText;
     private RectTransform textRectTransform;
@@ -38,7 +42,7 @@ public class ScrollingText : MonoBehaviour {
         while (true)
         {
             textRectTransform.localPosition = new Vector3(-scrollingPosition % width, startPosition.y, startPosition.z);
-            scrollingPosition += marqueeSpeed * 20 * Time.deltaTime;         
+            scrollingPosition += marqueeSpeed * 10 * Time.deltaTime;         
             yield return null;
         }      
     }
