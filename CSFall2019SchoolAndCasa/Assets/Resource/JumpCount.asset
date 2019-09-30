@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1da49d74f9341341952f48f4715b414, type: 3}
   m_Name: JumpCount
   m_EditorClassIdentifier: 
-  value: 0
+  value: 2
   maxValue: 2
