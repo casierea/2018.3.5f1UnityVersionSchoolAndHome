@@ -15,7 +15,6 @@ public class AiWithNavMesh : MonoBehaviour
         destination = transform;
         agent = GetComponent<NavMeshAgent>();
     }
-
     private void OnTriggerEnter(Collider other)
     {
         destination = player;
@@ -24,8 +23,6 @@ public class AiWithNavMesh : MonoBehaviour
     {
         destination = transform;
     }
-
-    // Update is called once per frame
     void Update()
     {
         agent.destination = player.position;

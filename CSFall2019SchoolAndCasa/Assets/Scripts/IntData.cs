@@ -12,6 +12,11 @@ public class IntData : ScriptableObject
         value = maxValue;
     }
 
+    public void UpdateValue(int number)
+    {
+        value += number;
+    }
+    
     // Update is called once per frame
     public void UpdateToNumber(int number)
     {

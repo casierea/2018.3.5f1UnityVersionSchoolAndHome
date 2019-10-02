@@ -1,11 +1,12 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
 public class TriggerEventBehaviour : MonoBehaviour
 {
-    public UnityEvent TriggerEnterEvent, TriggerStayEvent;
+    public UnityEvent TriggerEnterEvent, TriggerStayEvent, TriggerExitEvent;
 	
     private void OnTriggerEnter(Collider other)
     {
@@ -15,5 +16,10 @@ public class TriggerEventBehaviour : MonoBehaviour
     private void OnTriggerStay(Collider other)
     {
         TriggerStayEvent.Invoke();
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        TriggerExitEvent.Invoke();
     }
 }

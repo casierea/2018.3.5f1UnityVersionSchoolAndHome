@@ -10,13 +10,13 @@
           <e p="ActionCalls.cs" t="Include" />
           <e p="AiWithNavMesh.cs" t="Include" />
           <e p="CharacterMover02.cs" t="Include" />
+          <e p="CoRoutines2.cs" t="Include" />
           <e p="EventsWithArgs.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="HoemScripts" t="Include">
             <e p="AddValue.cs" t="Include" />
-            <e p="Coroutine.cs" t="Include" />
             <e p="CubeAnimation.cs" t="Include" />
             <e p="LightWorks.cs" t="Include" />
             <e p="Move.cs" t="Include" />
