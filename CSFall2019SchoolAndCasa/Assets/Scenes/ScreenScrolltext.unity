@@ -6290,7 +6290,6 @@ GameObject:
   - component: {fileID: 1867408899}
   - component: {fileID: 1867408898}
   - component: {fileID: 1867408897}
-  - component: {fileID: 1867408896}
   - component: {fileID: 1867408901}
   m_Layer: 0
   m_Name: HealthyFriend
@@ -6298,19 +6297,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &1867408896
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1867408895}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 66959a30cc3e06c418f96fd5863108e0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  m_IsActive: 1
 --- !u!136 &1867408897
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -6378,7 +6365,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1867408895}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.73, y: 0, z: 2.71}
+  m_LocalPosition: {x: 1.69, y: 0, z: 2.71}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

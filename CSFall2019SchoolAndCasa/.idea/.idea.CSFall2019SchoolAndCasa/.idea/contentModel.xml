@@ -4,8 +4,154 @@
     <e p="C:\Users\casie\.Rider2018.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\casie\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_CSFall2019SchoolAndCasa.-1321712437.00" t="ExcludeRecursive" />
     <e p="E:\Repos\Fall2019SchoolandHomerename\Fall2019SchoolAndCasaRename\CSFall2019SchoolAndCasa" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="BansheeGz" t="Include">
+          <e p="BGCurve" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="BGTestCamera.cs" t="Include" />
+                <e p="BGTestCcChangeCursorLinear.cs" t="Include" />
+                <e p="BGTestCurveChange.cs" t="Include" />
+                <e p="BGTestCurveClosestPoint.cs" t="Include" />
+                <e p="BGTestCurveDynamic.cs" t="Include" />
+                <e p="BGTestCurveMath.cs" t="Include" />
+                <e p="BGTestCurveRuntime.cs" t="Include" />
+                <e p="BGTestCurveRuntimeCustomFields.cs" t="Include" />
+                <e p="BGTestCurveShowcase.cs" t="Include" />
+                <e p="BGTestCurveSnapping.cs" t="Include" />
+                <e p="BGTestCurveStatic.cs" t="Include" />
+                <e p="BGTestDirector.cs" t="Include" />
+                <e p="BGTestMainMenu.cs" t="Include" />
+                <e p="BGTestPerformance.cs" t="Include" />
+              </e>
+            </e>
+            <e p="readme.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Cc" t="Include">
+                <e p="BGCcCursor.cs" t="Include" />
+                <e p="BGCcCursorChangeLinear.cs" t="Include" />
+                <e p="BGCcCursorObjectRotate.cs" t="Include" />
+                <e p="BGCcCursorObjectScale.cs" t="Include" />
+                <e p="BGCcCursorObjectTranslate.cs" t="Include" />
+                <e p="BGCcMath.cs" t="Include" />
+                <e p="BGCcSplitterPolyline.cs" t="Include" />
+                <e p="BGCcSweep2D.cs" t="Include" />
+                <e p="BGCcTriangulate2D.cs" t="Include" />
+                <e p="BGCcTrs.cs" t="Include" />
+                <e p="BGCcVisualizationLineRenderer.cs" t="Include" />
+                <e p="BGCcWithCursor.cs" t="Include" />
+                <e p="BGCcWithCursorObject.cs" t="Include" />
+                <e p="BGCcWithMath.cs" t="Include" />
+                <e p="BGPolylineSplitter.cs" t="Include" />
+                <e p="BGPpu.cs" t="Include" />
+                <e p="BGTriangulator2D.cs" t="Include" />
+              </e>
+              <e p="Curve" t="Include">
+                <e p="BGCc.cs" t="Include" />
+                <e p="BGCurve.cs" t="Include" />
+                <e p="BGCurveAdaptiveMath.cs" t="Include" />
+                <e p="BGCurveBaseMath.cs" t="Include" />
+                <e p="BGCurveCalculatorClosestPoint.cs" t="Include" />
+                <e p="BGCurveChangedArgs.cs" t="Include" />
+                <e p="BGCurveFormulaMath.cs" t="Include" />
+                <e p="BGCurveFormulas.cs" t="Include" />
+                <e p="BGCurveMathI.cs" t="Include" />
+                <e p="BGCurvePoint.cs" t="Include" />
+                <e p="BGCurvePointComponent.cs" t="Include" />
+                <e p="BGCurvePointField.cs" t="Include" />
+                <e p="BGCurvePointGO.cs" t="Include" />
+                <e p="BGCurvePointI.cs" t="Include" />
+                <e p="BGCurveReferenceToPoint.cs" t="Include" />
+                <e p="BGCurveSettings.cs" t="Include" />
+                <e p="BGReflectionAdapter.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="Cc" t="Include">
+                  <e p="BGCcCursorChangeLinearEditor.cs" t="Include" />
+                  <e p="BGCcCursorDrawer.cs" t="Include" />
+                  <e p="BGCcCursorEditor.cs" t="Include" />
+                  <e p="BGCcCursorObjectEditor.cs" t="Include" />
+                  <e p="BGCcCursorObjectRotateEditor.cs" t="Include" />
+                  <e p="BGCcCursorObjectScaleEditor.cs" t="Include" />
+                  <e p="BGCcCursorObjectTranslateEditor.cs" t="Include" />
+                  <e p="BGCcMathEditor.cs" t="Include" />
+                  <e p="BGCcSplitterPolylineEditor.cs" t="Include" />
+                  <e p="BGCcSweep2DEditor.cs" t="Include" />
+                  <e p="BGCcTriangulate2DEditor.cs" t="Include" />
+                  <e p="BGCcTrsEditor.cs" t="Include" />
+                  <e p="BGCcVisualizationLineRendererEditor.cs" t="Include" />
+                </e>
+                <e p="CcInfra" t="Include">
+                  <e p="BGCcAddWindow.cs" t="Include" />
+                  <e p="BGCcChangeNameWindow.cs" t="Include" />
+                  <e p="BGCcChoseDrawer.cs" t="Include" />
+                  <e p="BGCcChoseWindow.cs" t="Include" />
+                  <e p="BGCcEditor.cs" t="Include" />
+                  <e p="BGCcTreeView.cs" t="Include" />
+                </e>
+                <e p="Curve" t="Include">
+                  <e p="BGCurveEditor.cs" t="Include" />
+                  <e p="BGCurveEditorComponents.cs" t="Include" />
+                  <e p="BGCurveEditorFields.cs" t="Include" />
+                  <e p="BGCurveEditorPoint.cs" t="Include" />
+                  <e p="BGCurveEditorPoints.cs" t="Include" />
+                  <e p="BGCurveEditorPointsSelection.cs" t="Include" />
+                  <e p="BGCurveEditorSettings.cs" t="Include" />
+                  <e p="BGCurveEditorTab.cs" t="Include" />
+                  <e p="BGCurvePointComponentDrawer.cs" t="Include" />
+                  <e p="BGCurvePointGOEditor.cs" t="Include" />
+                  <e p="BGCurveReferenceToPointEditor.cs" t="Include" />
+                  <e p="BGNewPointPositionManager.cs" t="Include" />
+                  <e p="BGRectangularSelection.cs" t="Include" />
+                </e>
+                <e p="Infra" t="Include">
+                  <e p="BGChoseComponentWindow.cs" t="Include" />
+                  <e p="BGCurveChosePointWindow.cs" t="Include" />
+                  <e p="BGCurvePainterGizmo.cs" t="Include" />
+                  <e p="BGCurvePainterHandles.cs" t="Include" />
+                  <e p="BGHandlesSettingsDrawer.cs" t="Include" />
+                  <e p="BGPropertyDrawer.cs" t="Include" />
+                  <e p="BGTransformMonitor.cs" t="Include" />
+                </e>
+                <e p="Overlay" t="Include">
+                  <e p="BGOverlayMessage.cs" t="Include" />
+                  <e p="BGPopupMenu.cs" t="Include" />
+                  <e p="BGSceneViewOverlay.cs" t="Include" />
+                  <e p="BGSceneViewOverlayMenu.cs" t="Include" />
+                  <e p="BGSceneViewOverlayMenuPoint.cs" t="Include" />
+                  <e p="BGSceneViewOverlayMenuSelection.cs" t="Include" />
+                  <e p="BGSceneViewOverlayPointAdd.cs" t="Include" />
+                  <e p="BGSceneViewOverlayPointAddAtDistance.cs" t="Include" />
+                  <e p="BGSceneViewOverlayPointAddSnap2D.cs" t="Include" />
+                  <e p="BGSceneViewOverlayPointAddSnap3D.cs" t="Include" />
+                  <e p="BGSceneViewOverlayPointInsert.cs" t="Include" />
+                </e>
+                <e p="Settings" t="Include">
+                  <e p="BGAbstractSettingsForEditor.cs" t="Include" />
+                  <e p="BGCurveSettingsForEditor.cs" t="Include" />
+                  <e p="BGCurveSettingsForEditorWindow.cs" t="Include" />
+                  <e p="BGCurveSettingsOperations.cs" t="Include" />
+                  <e p="BGCurveSettingsSO.cs" t="Include" />
+                </e>
+                <e p="Utils" t="Include">
+                  <e p="BGBinaryResources.cs" t="Include" />
+                  <e p="BGEditorIcon.cs" t="Include" />
+                  <e p="BGEditorUtility.cs" t="Include" />
+                  <e p="BGPrivateField.cs" t="Include" />
+                  <e p="BGStartUp.cs" t="Include" />
+                  <e p="BGTableView.cs" t="Include" />
+                  <e p="BGTransition.cs" t="Include" />
+                  <e p="BGTreeView.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="OBJExport" t="Include">
+          <e p="OBJExporter.cs" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="AiWithNavMesh.cs" t="Include" />
@@ -26,6 +172,7 @@
           <e p="IntData.cs" t="Include" />
           <e p="MarqueeText.cs" t="Include" />
           <e p="ScrollingText.cs" t="Include" />
+          <e p="TimeDestroyObj.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
           <e p="TriggerEventbehaviour.cs" t="Include" />
         </e>
@@ -97,6 +244,31 @@
           </e>
           <e p="Sprites" t="Include">
             <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="TimelineEvents" t="Include">
+          <e p="Demo" t="Include">
+            <e p="DemoScripts" t="Include">
+              <e p="NavMeshFollower.cs" t="Include" />
+              <e p="Robot.cs" t="Include" />
+              <e p="UIManager.cs" t="Include" />
+              <e p="UIType.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Extensions" t="Include">
+              <e p="PrimitiveExtensions.cs" t="Include" />
+            </e>
+            <e p="TimelineEvents" t="Include">
+              <e p="Editor" t="Include">
+                <e p="TimelineEventDrawer.cs" t="Include" />
+              </e>
+              <e p="EventInvocationInfo.cs" t="Include" />
+              <e p="TimelineEventBehaviour.cs" t="Include" />
+              <e p="TimelineEventClip.cs" t="Include" />
+              <e p="TimelineEventMixerBehaviour.cs" t="Include" />
+              <e p="TimelineEventTrack.cs" t="Include" />
+            </e>
           </e>
         </e>
       </e>
