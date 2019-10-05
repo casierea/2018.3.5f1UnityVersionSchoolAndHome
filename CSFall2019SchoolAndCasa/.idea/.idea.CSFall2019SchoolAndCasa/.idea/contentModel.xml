@@ -171,6 +171,7 @@
           <e p="ImageController.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="MarqueeText.cs" t="Include" />
+          <e p="PickUpPoint.cs" t="Include" />
           <e p="ScrollingText.cs" t="Include" />
           <e p="TimeDestroyObj.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
