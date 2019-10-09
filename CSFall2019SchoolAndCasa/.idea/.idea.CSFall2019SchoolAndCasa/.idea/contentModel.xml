@@ -149,8 +149,12 @@
             </e>
           </e>
         </e>
-        <e p="OBJExport" t="Include">
-          <e p="OBJExporter.cs" t="Include" />
+        <e p="Classes" t="Include">
+          <e p="EndGameClass.cs" t="Include" />
+          <e p="EnemyClass.cs" t="Include" />
+          <e p="PlayerClass.cs" t="Include" />
+          <e p="PowerClass.cs" t="Include" />
+          <e p="WeaponClass.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
