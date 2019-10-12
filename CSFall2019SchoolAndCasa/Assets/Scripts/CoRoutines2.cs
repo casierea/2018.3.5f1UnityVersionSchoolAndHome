@@ -1,20 +1,19 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-
-public class CoRoutines2 : MonoBehaviour
+public class Coroutines : MonoBehaviour
 {
     private WaitForSeconds wfs;
     public float holdTime = 0.1f;
+
     public bool CanRun { get; set; } = true;
     
     public UnityEvent OnRunEvent;
     private void Awake()
     {
-        wfs = new WaitForSeconds(holdTime);    
+        wfs = new WaitForSeconds(holdTime);
     }
 
     public void Run()
@@ -27,7 +26,6 @@ public class CoRoutines2 : MonoBehaviour
         while (CanRun)
         {
             OnRunEvent.Invoke();
-            print("run");
             yield return wfs;
         }
     }
