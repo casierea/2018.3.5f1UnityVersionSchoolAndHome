@@ -163,6 +163,7 @@
           <e p="CharacterMover02.cs" t="Include" />
           <e p="Collections.cs" t="Include" />
           <e p="CoRoutines2.cs" t="Include" />
+          <e p="DestroyObject.cs" t="Include" />
           <e p="EndGameClass.cs" t="Include" />
           <e p="EventsWithArgs.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
