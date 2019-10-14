@@ -9,8 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 230508ac3adef6d4d89e6b51f37fc37d, type: 3}
-  m_Name: Score
+  m_Script: {fileID: 11500000, guid: 5caf9ccf63bf6f9459eabe399c691fb2, type: 3}
+  m_Name: Walk
   m_EditorClassIdentifier: 
-  value: 0.1
-  maxValue: 1
+  animName: walk

@@ -1,22 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
 
-[RequireComponent(typeof(CharacterController))]
-public class CharacterMover02 : MonoBehaviour
+[CreateAssetMenu]
+public class CharacterMover02 : ScriptableObject
 {
     public float moveSpeed = 10f, jumpSpeed = 30f, gravity = 3f;
-    private CharacterController controller;
     private Vector3 position;
     public IntData jumpData;
-  
     
-    void Start()
-    {
-        controller = GetComponent<CharacterController>();
-    }
-    
-    void Update()
+    public void MoveCharacter(CharacterController controller)
     {
         position.x = moveSpeed * Input.GetAxis("Horizontal");
         position.z = moveSpeed * Input.GetAxis("Vertical");
