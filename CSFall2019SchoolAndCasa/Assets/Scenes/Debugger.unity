@@ -487,8 +487,6 @@ GameObject:
   - component: {fileID: 2108778359}
   - component: {fileID: 2108778358}
   - component: {fileID: 2108778357}
-  - component: {fileID: 2108778356}
-  - component: {fileID: 2108778355}
   - component: {fileID: 2108778354}
   - component: {fileID: 2108778361}
   m_Layer: 0
@@ -517,7 +515,7 @@ MonoBehaviour:
         m_MethodName: MoveCharacter
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 2108778356}
+          m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.CharacterController, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -526,41 +524,6 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!114 &2108778355
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2108778353}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2d9e683cac13f0f4587a33330f1e0b6c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 10
-  jumpSpeed: 30
-  gravity: 3
-  position: {x: 0, y: 0, z: 0}
-  jumpData: {fileID: 0}
---- !u!143 &2108778356
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2108778353}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Height: 1
-  m_Radius: 0.5
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!65 &2108778357
 BoxCollider:
   m_ObjectHideFlags: 0
