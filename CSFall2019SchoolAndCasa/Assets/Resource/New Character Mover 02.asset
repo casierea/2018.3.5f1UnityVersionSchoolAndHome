@@ -9,8 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 230508ac3adef6d4d89e6b51f37fc37d, type: 3}
-  m_Name: Score
+  m_Script: {fileID: 11500000, guid: 2d9e683cac13f0f4587a33330f1e0b6c, type: 3}
+  m_Name: New Character Mover 02
   m_EditorClassIdentifier: 
-  value: 0.1
-  maxValue: 1
+  moveSpeed: 10
+  jumpSpeed: 30
+  gravity: 3
+  jumpData: {fileID: 11400000, guid: ef80498825838144d899350bd2878ae8, type: 2}
