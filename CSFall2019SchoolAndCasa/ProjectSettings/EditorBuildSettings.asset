@@ -8,10 +8,28 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: 1e159bb4da4559d4b9c7062c3b779e47
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Game.unity
     guid: dc8bc30bc0e28214192cad6c589f1bf8
+  - enabled: 0
+    path: Assets/Scenes/Page2.unity
+    guid: d0ff26cf50717804a873e53999072141
+  - enabled: 1
+    path: Assets/Scenes/BookProject/TitlePage.unity
+    guid: 58bf6c13eb6d58c478da3386cac69105
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page1Collect.unity
+    guid: 2abbe8dfd0f79224689d3253e81247bc
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page2.unity
+    guid: 5085be57ffac48a46b518ed88c2e61f5
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page3.unity
+    guid: 95dc57994b1d65247b3074e73186f5ba
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page4.unity
+    guid: a2577a9d2230e9045a6d8d955a9f860b
   m_configObjects: {}

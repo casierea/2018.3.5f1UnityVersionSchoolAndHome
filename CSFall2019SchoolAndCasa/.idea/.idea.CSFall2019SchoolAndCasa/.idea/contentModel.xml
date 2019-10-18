@@ -166,6 +166,7 @@
             <e p="GameActionHandler.cs" t="Include" />
             <e p="MouseOver.cs" t="Include" />
             <e p="OnMouse.cs" t="Include" />
+            <e p="SceneManagementer.cs" t="Include" />
             <e p="TriggerEventbehaviour.cs" t="Include" />
           </e>
           <e p="CharacterMover02.cs" t="Include" />
