@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 [CreateAssetMenu]
-public class Vector3data : ScriptableObject
+public class Vector3Data : ScriptableObject
 {
     public Vector3 value;
 

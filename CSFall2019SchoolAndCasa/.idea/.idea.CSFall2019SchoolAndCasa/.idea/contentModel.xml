@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\casie\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\casie\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_CSFall2019SchoolAndCasa.-1321712437.00" t="ExcludeRecursive" />
-    <e p="E:\Repos\Fall2019SchoolandHomerename\Fall2019SchoolAndCasaRename\CSFall2019SchoolAndCasa" t="IncludeRecursive">
+    <e p="C:\Users\10864830\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10864830\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CSFall2019SchoolAndCasa.-541563210.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10864830\Documents\Repos\SchoolAndHomeCS\Fall2019SchoolAndCasaRename\CSFall2019SchoolAndCasa" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -287,7 +287,7 @@
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="Ai" t="Include">
-            <e p="AiWithNavMesh.cs" t="Include" />
+            <e p="AiNavMesh.cs" t="Include" />
           </e>
           <e p="AnimController.cs" t="Include" />
           <e p="BookGame" t="Include">
@@ -319,6 +319,13 @@
           <e p="ImageController.cs" t="Include" />
           <e p="Instancer.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="DoDamage.cs" t="Include" />
+            <e p="Interfaces.cs" t="Include" />
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="PowerUp.cs" t="Include" />
+            <e p="TriggerListener.cs" t="Include" />
+          </e>
           <e p="MainMenu.cs" t="Include" />
           <e p="MarqueeText.cs" t="Include" />
           <e p="MonoEventBehaviours.cs" t="Include" />
@@ -426,12 +433,9 @@
         </e>
       </e>
       <e p="CSFall2019SchoolAndCasa.sln" t="IncludeFlat" />
-      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp" t="ExcludeRecursive">
-        <e p="bin" t="ExcludeRecursive" />
-      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

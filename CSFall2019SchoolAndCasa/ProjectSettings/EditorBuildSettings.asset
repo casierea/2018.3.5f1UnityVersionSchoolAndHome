@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/Scenes/BookProject/Page1Collect.unity
     guid: 2abbe8dfd0f79224689d3253e81247bc
   - enabled: 1
-    path: Assets/Scenes/BookProject/Page2.unity
+    path: Assets/Scenes/BookProject/FrogCollection.unity
     guid: 5085be57ffac48a46b518ed88c2e61f5
   - enabled: 1
     path: Assets/Scenes/BookProject/Page3.unity

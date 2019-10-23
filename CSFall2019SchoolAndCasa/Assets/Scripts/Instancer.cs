@@ -5,7 +5,7 @@ public class Instancer : ScriptableObject
 {
     public GameAction gameActionObj;
     
-    public Vector3 instanceAtLocation;
+    public Vector3Data instanceAtLocation;
     
     public void InstanceObj(GameObject obj)
     {
