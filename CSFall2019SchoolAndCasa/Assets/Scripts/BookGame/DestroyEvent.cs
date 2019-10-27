@@ -8,9 +8,9 @@ public class DestroyEvent : MonoBehaviour
 	
     private void OnTriggerEnter(Collider trig)
     {
-        if (trig.gameObject.tag == "object")
-        {
+        //if (trig.gameObject.tag == "object")
+        //{
             Destroy(gameObject);
-        }
+        //}
     }
 }
