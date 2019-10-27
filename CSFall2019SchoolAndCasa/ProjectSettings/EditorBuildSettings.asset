@@ -21,18 +21,39 @@ EditorBuildSettings:
     path: Assets/Scenes/BookProject/TitlePage.unity
     guid: 58bf6c13eb6d58c478da3386cac69105
   - enabled: 1
-    path: Assets/Scenes/BookProject/page3.unity
-    guid: e4de96e3dbbaa164aa3f1a48e2e39b95
-  - enabled: 1
-    path: Assets/Scenes/BookProject/Page1Collect.unity
-    guid: 2abbe8dfd0f79224689d3253e81247bc
+    path: Assets/Scenes/BookProject/Page2.unity
+    guid: eb0767e6d48256d4e99bbef742a914cb
   - enabled: 1
     path: Assets/Scenes/BookProject/FrogCollection.unity
     guid: 5085be57ffac48a46b518ed88c2e61f5
+  - enabled: 0
+    path: Assets/Scenes/BookProject/page3.unity
+    guid: e4de96e3dbbaa164aa3f1a48e2e39b95
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page4.unity
+    guid: 8b3c87caccc1a7d44898828666cc59a3
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page5.unity
+    guid: b3d3408752cf5704a92d49b844327340
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page6.unity
+    guid: 8d444b1f9c22bfd4caf2af61ccbc469d
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page7.unity
+    guid: e3f9a2b2168b24640968860a52f3b1a7
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page8.unity
+    guid: 4732a88738f0b68428c97926b8af4233
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Page9.unity
+    guid: 12cfb15407f3ed740a9b3d1d0bdbdbb0
+  - enabled: 0
+    path: Assets/Scenes/BookProject/Page1Collect.unity
+    guid: 2abbe8dfd0f79224689d3253e81247bc
   - enabled: 1
     path: Assets/Scenes/BookProject/FireFlyButton.unity
     guid: 95dc57994b1d65247b3074e73186f5ba
-  - enabled: 1
-    path: Assets/Scenes/BookProject/Page4.unity
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/a2577a9d2230e9045a6d8d955a9f860b
     guid: a2577a9d2230e9045a6d8d955a9f860b
   m_configObjects: {}
