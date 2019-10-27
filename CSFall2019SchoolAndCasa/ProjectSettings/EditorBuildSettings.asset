@@ -27,7 +27,7 @@ EditorBuildSettings:
     path: Assets/Scenes/BookProject/FrogCollection.unity
     guid: 5085be57ffac48a46b518ed88c2e61f5
   - enabled: 1
-    path: Assets/Scenes/BookProject/Page3.unity
+    path: Assets/Scenes/BookProject/FireFlyButton.unity
     guid: 95dc57994b1d65247b3074e73186f5ba
   - enabled: 1
     path: Assets/Scenes/BookProject/Page4.unity
