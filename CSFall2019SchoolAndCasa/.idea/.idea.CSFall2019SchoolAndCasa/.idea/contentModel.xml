@@ -291,8 +291,11 @@
           </e>
           <e p="AnimController.cs" t="Include" />
           <e p="BookGame" t="Include">
+            <e p="DestroyEvent.cs" t="Include" />
+            <e p="DragObjs.cs" t="Include" />
             <e p="GameAction.cs" t="Include" />
             <e p="GameActionHandler.cs" t="Include" />
+            <e p="HoldContainer.cs" t="Include" />
             <e p="MouseOver.cs" t="Include" />
             <e p="OnMouse.cs" t="Include" />
             <e p="SceneManagementer.cs" t="Include" />
