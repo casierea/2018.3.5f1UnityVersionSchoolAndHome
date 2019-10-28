@@ -298,6 +298,7 @@
             <e p="HoldContainer.cs" t="Include" />
             <e p="MouseOver.cs" t="Include" />
             <e p="OnMouse.cs" t="Include" />
+            <e p="SceneChange.cs" t="Include" />
             <e p="SceneManagementer.cs" t="Include" />
             <e p="TriggerEventbehaviour.cs" t="Include" />
             <e p="UpClickMouse.cs" t="Include" />
