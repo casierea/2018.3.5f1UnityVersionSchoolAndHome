@@ -5314,7 +5314,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: Next Page
 --- !u!222 &439514968
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16252,7 +16252,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1785299528}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 231}
+  m_LocalPosition: {x: 0, y: 0, z: -247}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 439514966}
@@ -16261,8 +16261,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -199, y: -103.3}
-  m_SizeDelta: {x: 60, y: -235.37134}
+  m_AnchoredPosition: {x: -180, y: -104.492836}
+  m_SizeDelta: {x: 50, y: -232.98567}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1785299530
 MonoBehaviour:
