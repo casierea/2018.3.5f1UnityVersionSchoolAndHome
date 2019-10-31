@@ -11,4 +11,11 @@ public class OnMouse : MonoBehaviour
    {
       OnMouseDownEvent.Invoke();
    }
+
+   public UnityEvent OnmouseUpEvent;
+
+   private void OnMouseUp()
+   {
+      OnmouseUpEvent.Invoke();
+   }
 }
