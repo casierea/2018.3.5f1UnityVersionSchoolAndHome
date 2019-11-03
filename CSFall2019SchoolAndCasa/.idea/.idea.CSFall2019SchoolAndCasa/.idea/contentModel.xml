@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\WunderDuck\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\WunderDuck\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CSFall2019SchoolAndCasa.-1937655784.00" t="ExcludeRecursive" />
-    <e p="C:\Users\WunderDuck\Documents\Repos\ScriptingFall2019\Fall2019SchoolAndCasaRename\CSFall2019SchoolAndCasa" t="IncludeRecursive">
+    <e p="C:\Users\casie\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\casie\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_CSFall2019SchoolAndCasa.-1321712437.00" t="ExcludeRecursive" />
+    <e p="E:\Repos\Fall2019SchoolandHomerename\Fall2019SchoolAndCasaRename\CSFall2019SchoolAndCasa" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -164,6 +164,7 @@
           <e p="AnimController.cs" t="Include" />
           <e p="BookGame" t="Include">
             <e p="DestroyEvent.cs" t="Include" />
+            <e p="DialogBox.cs" t="Include" />
             <e p="DragObjs.cs" t="Include" />
             <e p="FlashLight.cs" t="Include" />
             <e p="GameAction.cs" t="Include" />
@@ -319,9 +320,12 @@
         </e>
       </e>
       <e p="CSFall2019SchoolAndCasa.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
     </e>
   </component>
 </project>
