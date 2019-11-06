@@ -150,6 +150,7 @@
           </e>
         </e>
         <e p="CharacterBase.cs" t="Include" />
+<<<<<<< HEAD
         <e p="Cinemachine" t="Include">
           <e p="Base" t="Include">
             <e p="Editor" t="Include">
@@ -279,11 +280,18 @@
             </e>
           </e>
         </e>
+=======
+>>>>>>> master
         <e p="Classes" t="Include">
           <e p="EnemyClass.cs" t="Include" />
           <e p="PlayerClass.cs" t="Include" />
           <e p="PowerClass.cs" t="Include" />
           <e p="WeaponClass.cs" t="Include" />
+        </e>
+        <e p="Nov4Actions" t="Include">
+          <e p="AnthonyClass.cs" t="Include" />
+          <e p="MartiClass.cs" t="Include" />
+          <e p="RodayneClass.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="Action" t="Include">
@@ -296,36 +304,51 @@
           <e p="BookGame" t="Include">
             <e p="DestroyEvent.cs" t="Include" />
             <e p="DialogBox.cs" t="Include" />
+<<<<<<< HEAD
             <e p="DraggObj3D.cs" t="Include" />
+=======
+>>>>>>> master
             <e p="DragObjs.cs" t="Include" />
+            <e p="FlashLight.cs" t="Include" />
             <e p="GameAction.cs" t="Include" />
             <e p="GameActionHandler.cs" t="Include" />
-            <e p="HoldContainer.cs" t="Include" />
             <e p="MouseOver.cs" t="Include" />
+            <e p="MusicControl.cs" t="Include" />
             <e p="OnMouse.cs" t="Include" />
+            <e p="ReferenceFish.cs" t="Include" />
             <e p="SceneChange.cs" t="Include" />
             <e p="SceneManagementer.cs" t="Include" />
+            <e p="TimeDestroyObj.cs" t="Include" />
             <e p="TriggerEventbehaviour.cs" t="Include" />
             <e p="UpClickMouse.cs" t="Include" />
           </e>
+<<<<<<< HEAD
           <e p="Character" t="Include">
             <e p="CharacterMover02.cs" t="Include" />
           </e>
+=======
+          <e p="CharacterMover02.cs" t="Include" />
+          <e p="CharacterPrime.cs" t="Include" />
+>>>>>>> master
           <e p="CineMachinecontroller.cs" t="Include" />
           <e p="Collections.cs" t="Include" />
           <e p="CoRoutines2.cs" t="Include" />
           <e p="CreateSOData.cs" t="Include" />
           <e p="DeBugger.cs" t="Include" />
+          <e p="DragObj3D.cs" t="Include" />
           <e p="EndGameClass.cs" t="Include" />
           <e p="EventListener.cs" t="Include" />
           <e p="EventsWithArgs.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GenericScripts" t="Include">
+            <e p="AnimatorSetTrigger.cs" t="Include" />
+            <e p="InstanceObj.cs" t="Include" />
+            <e p="SelectRandomObj.cs" t="Include" />
+            <e p="WaitForSetTime.cs" t="Include" />
+          </e>
           <e p="HoemScripts" t="Include">
             <e p="AddValue.cs" t="Include" />
-            <e p="CubeAnimation.cs" t="Include" />
-            <e p="LightWorks.cs" t="Include" />
             <e p="Move.cs" t="Include" />
-            <e p="PickUpPoint.cs" t="Include" />
             <e p="ValueFloatData.cs" t="Include" />
           </e>
           <e p="ImageController.cs" t="Include" />
@@ -348,8 +371,6 @@
           <e p="MarqueeText.cs" t="Include" />
           <e p="MonoEventBehaviours.cs" t="Include" />
           <e p="MouseEventsScritps.cs" t="Include" />
-          <e p="ScrollingText.cs" t="Include" />
-          <e p="TimeDestroyObj.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
           <e p="UpdateEvent.cs" t="Include" />
           <e p="Vector3data.cs" t="Include" />
