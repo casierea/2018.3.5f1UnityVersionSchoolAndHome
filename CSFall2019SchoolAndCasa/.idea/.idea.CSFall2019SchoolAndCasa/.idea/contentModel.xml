@@ -194,7 +194,6 @@
           <e p="CoRoutines2.cs" t="Include" />
           <e p="CreateSOData.cs" t="Include" />
           <e p="DeBugger.cs" t="Include" />
-          <e p="DragObj3D.cs" t="Include" />
           <e p="EndGameClass.cs" t="Include" />
           <e p="EventListener.cs" t="Include" />
           <e p="EventsWithArgs.cs" t="Include" />
