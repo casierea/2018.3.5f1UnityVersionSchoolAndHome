@@ -12,4 +12,6 @@ public class SelectRandomObj : MonoBehaviour
       int rand = Random.Range(0, objs.Count);
       SelectedObject = objs[rand];
    }
+
+   
 }
