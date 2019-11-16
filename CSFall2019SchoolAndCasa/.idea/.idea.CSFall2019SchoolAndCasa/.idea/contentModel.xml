@@ -201,7 +201,6 @@
           <e p="FloatData.cs" t="Include" />
           <e p="GenericScripts" t="Include">
             <e p="AnimatorSetTrigger.cs" t="Include" />
-            <e p="Collect.cs" t="Include" />
             <e p="InstanceObj.cs" t="Include" />
             <e p="ObjCollection.cs" t="Include" />
             <e p="SelectRandomObj.cs" t="Include" />

@@ -3,41 +3,23 @@ guid: f9d96f4e7a15ef24c8c757d3388b9c20
 TextureImporter:
   internalIDToNameTable:
   - first:
+      213: -5343897376169499932
+    second: Fluckyclover
+  - first:
+      213: 8338070565559865952
+    second: jar01
+  - first:
+      213: -5343897376169499932
+    second: backpack
+  - first:
+      213: 1641901686417308445
+    second: flashlight
+  - first:
       213: -7730486409907412771
     second: preview_0
   - first:
-      213: 4896091434145178306
-    second: greenCystal
-  - first:
-      213: 1524326971121535608
-    second: preview_2
-  - first:
-      213: 4747362401839479759
-    second: BackPack
-  - first:
-      213: 6294854831468297993
-    second: preview_1FlashLight
-  - first:
-      213: 8610347915195860162
-    second: preview_1Backpack2
-  - first:
-      213: 5609288330211400061
-    second: Map
-  - first:
-      213: 8184059568181860812
-    second: preview_1
-  - first:
-      213: 4041563958760566414
-    second: LuckyCoin
-  - first:
-      213: -7666671087119334698
-    second: SpikeBall
-  - first:
-      213: -7684595821279292466
-    second: bluemedicine
-  - first:
-      213: 5843674054780340190
-    second: preview_3purplemedicine
+      213: -3946692556965854293
+    second: net
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -120,34 +102,118 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: preview_0
+      name: Fluckyclover
       rect:
         serializedVersion: 2
-        x: 87
-        y: 719
-        width: 108
-        height: 111
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 15, y: 0, z: 0, w: 0}
+        x: 962
+        y: 395
+        width: 97
+        height: 121
+      alignment: 9
+      pivot: {x: 0.835488, y: 0.15979029}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ed2ff74631c4004ab1f9e4350342cfa
+      spriteID: cf641357e8d7a8f499024d4b7be8ce05
+      internalID: -5343897376169499932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jar01
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 379
+        width: 120
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927d46a13f9242d43bb47cd6541fa031
+      internalID: 8338070565559865952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backpack
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 707
+        width: 134
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72332e0cddfdddd4aa3f4e4a54e66a92
+      internalID: -5343897376169499932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flashlight
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 28
+        width: 93
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a302a2b862f4274dbfe702bfc1acd28
+      internalID: 1641901686417308445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preview_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 483
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d7ef50293584b4a8ad53dd4f1fe4a8
       internalID: -7730486409907412771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: greenCystal
+      name: net
       rect:
         serializedVersion: 2
-        x: 234
-        y: 709
-        width: 107
-        height: 127
+        x: 253
+        y: 199
+        width: 99
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,218 +221,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e3e543ab41d70f4bba7f807a8f014af
-      internalID: 4896091434145178306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: preview_2
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 711
-        width: 96
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c7817755db8ca440a6e65e802be1a68
-      internalID: 1524326971121535608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BackPack
-      rect:
-        serializedVersion: 2
-        x: 86
-        y: 202
-        width: 155
-        height: 153
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27c963541fa54ec44b3ecc96f72a8f6c
-      internalID: 4747362401839479759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: preview_1FlashLight
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 38
-        width: 92
-        height: 173
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af53cb07787670044b15ffbd21e2b39a
-      internalID: 6294854831468297993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: preview_1Backpack2
-      rect:
-        serializedVersion: 2
-        x: 633
-        y: 691
-        width: 143
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e667ae198a0ddd4e82df92f6a680495
-      internalID: 8610347915195860162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Map
-      rect:
-        serializedVersion: 2
-        x: 344
-        y: 540
-        width: 132
-        height: 135
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 436de9b07dbe39649a572a85545824a8
-      internalID: 5609288330211400061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: preview_1
-      rect:
-        serializedVersion: 2
-        x: 767
-        y: 377
-        width: 145
-        height: 159
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10cb78d14aa5c70458f220278ed29090
-      internalID: 8184059568181860812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LuckyCoin
-      rect:
-        serializedVersion: 2
-        x: 752
-        y: 367
-        width: 169
-        height: 163
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ec6b37cdd3ea6543900b5dd33bea762
-      internalID: 4041563958760566414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpikeBall
-      rect:
-        serializedVersion: 2
-        x: 698
-        y: 536
-        width: 118
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5b79e718362a504b95e4a65cb91e4f8
-      internalID: -7666671087119334698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bluemedicine
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 392
-        width: 108
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3815dcd28c2130b4580ab7b27703a150
-      internalID: -7684595821279292466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: preview_3purplemedicine
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 378
-        width: 92
-        height: 146
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35e4b08d927c1944b916a3b74fd90ebb
-      internalID: 5843674054780340190
+      spriteID: 497912e102036dd40b127c8397922a37
+      internalID: -3946692556965854293
       vertices: []
       indices: 
       edges: []
