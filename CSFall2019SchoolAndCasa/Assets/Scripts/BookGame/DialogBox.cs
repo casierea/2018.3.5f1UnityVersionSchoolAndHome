@@ -14,9 +14,9 @@ public class DialogBox : MonoBehaviour
 
     public UnityEvent EndOfTextEvent;
     
-    //Call when DialogueBox is opened
+  
     
-    public void OpenBox()
+    public void OpenDialogBox()
     {
         GetComponent<CanvasGroup>().alpha = 1;
         GetComponent<CanvasGroup>().interactable = true;
@@ -25,7 +25,7 @@ public class DialogBox : MonoBehaviour
     
     // call when next button is pressed
     
-    public void CloseBox()
+    public void CloseDialogBox()
     {
         GetComponent<CanvasGroup>().alpha = 0;
         GetComponent<CanvasGroup>().interactable = false;
