@@ -190,6 +190,10 @@
           </e>
           <e p="AnimController.cs" t="Include" />
           <e p="BookGame" t="Include">
+            <e p="coin" t="Include">
+              <e p="coin.cs" t="Include" />
+              <e p="PaymentObj.cs" t="Include" />
+            </e>
             <e p="DestroyEvent.cs" t="Include" />
             <e p="DialogBox.cs" t="Include" />
             <e p="DraggObj3D.cs" t="Include" />
