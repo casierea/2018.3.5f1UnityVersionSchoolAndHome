@@ -215,6 +215,11 @@
           <e p="Character" t="Include">
             <e p="CharacterMover02.cs" t="Include" />
           </e>
+          <e p="coin" t="Include">
+            <e p="SceneCoinStuff" t="Include">
+              <e p="Flower.cs" t="Include" />
+            </e>
+          </e>
           <e p="Collections.cs" t="Include" />
           <e p="CoRoutines2.cs" t="Include" />
           <e p="CreateSOData.cs" t="Include" />
