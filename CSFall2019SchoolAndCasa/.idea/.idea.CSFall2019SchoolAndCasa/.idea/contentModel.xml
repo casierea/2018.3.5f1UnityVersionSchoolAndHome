@@ -190,6 +190,13 @@
           </e>
           <e p="AnimController.cs" t="Include" />
           <e p="BookGame" t="Include">
+            <e p="ButtonFire" t="Include">
+              <e p="AmmoHandler.cs" t="Include" />
+              <e p="WeaponButton.cs" t="Include" />
+              <e p="WeaponButtonHandler.cs" t="Include" />
+              <e p="WeaponConfig.cs" t="Include" />
+              <e p="WeaponHandler.cs" t="Include" />
+            </e>
             <e p="coin" t="Include">
               <e p="coin.cs" t="Include" />
               <e p="PaymentObj.cs" t="Include" />
@@ -214,12 +221,6 @@
           </e>
           <e p="Character" t="Include">
             <e p="CharacterMover02.cs" t="Include" />
-          </e>
-          <e p="coin" t="Include">
-            <e p="SceneCoinStuff" t="Include">
-              <e p="CoinPowerUp.cs" t="Include" />
-              <e p="FlowerTrade.cs" t="Include" />
-            </e>
           </e>
           <e p="Collections.cs" t="Include" />
           <e p="CoRoutines2.cs" t="Include" />
