@@ -191,6 +191,7 @@
           <e p="AnimController.cs" t="Include" />
           <e p="BookGame" t="Include">
             <e p="ButtonFire" t="Include">
+              <e p="AmHand02.cs" t="Include" />
               <e p="AmmoHandler.cs" t="Include" />
               <e p="WeaponButton.cs" t="Include" />
               <e p="WeaponButtonHandler.cs" t="Include" />
@@ -227,6 +228,9 @@
           <e p="CreateSOData.cs" t="Include" />
           <e p="DeBugger.cs" t="Include" />
           <e p="EndGameClass.cs" t="Include" />
+          <e p="Enemy" t="Include">
+            <e p="EnemyHandler.cs" t="Include" />
+          </e>
           <e p="EventListener.cs" t="Include" />
           <e p="EventsWithArgs.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
