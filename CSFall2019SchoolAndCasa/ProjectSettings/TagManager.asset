@@ -6,6 +6,7 @@ TagManager:
   tags:
   - object
   - staticObj
+  - Selectable
   layers:
   - Default
   - TransparentFX
