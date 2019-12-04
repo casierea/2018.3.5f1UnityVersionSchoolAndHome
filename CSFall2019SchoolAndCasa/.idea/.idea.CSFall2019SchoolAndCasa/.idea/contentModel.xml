@@ -186,6 +186,7 @@
             <e p="ActionCalls.cs" t="Include" />
           </e>
           <e p="Ai" t="Include">
+            <e p="AiClass.cs" t="Include" />
             <e p="AiNavMesh.cs" t="Include" />
           </e>
           <e p="AnimController.cs" t="Include" />
@@ -230,6 +231,7 @@
           <e p="CoRoutines2.cs" t="Include" />
           <e p="CreateSOData.cs" t="Include" />
           <e p="DeBugger.cs" t="Include" />
+          <e p="DestructScript.cs" t="Include" />
           <e p="EndGameClass.cs" t="Include" />
           <e p="Enemy" t="Include">
             <e p="EnemyHandler.cs" t="Include" />
