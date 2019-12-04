@@ -38,24 +38,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BookProject/Page05.unity
     guid: 5085be57ffac48a46b518ed88c2e61f5
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/Scenes/BookProject/fluffy.unity
-    guid: b3d3408752cf5704a92d49b844327340
   - enabled: 1
     path: Assets/Scenes/BookProject/Page6.unity
     guid: 971c7f779923a4b4cad2726c74449f5e
   - enabled: 1
     path: Assets/Scenes/BookProject/Page7.unity
     guid: e3f9a2b2168b24640968860a52f3b1a7
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/BookProject/Page8.unity
     guid: 95dc57994b1d65247b3074e73186f5ba
+  - enabled: 1
+    path: Assets/Scenes/BookProject/Slide.unity
+    guid: 290af024214c6ec4793bf30d12b1d391
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
