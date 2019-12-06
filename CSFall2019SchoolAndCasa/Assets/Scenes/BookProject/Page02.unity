@@ -561,8 +561,8 @@ MonoBehaviour:
   EndOfTextEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 400879548}
-        m_MethodName: OpenDialogBox
+      - m_Target: {fileID: 0}
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6209,7 +6209,7 @@ MonoBehaviour:
   EndOfTextEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 798533871}
+      - m_Target: {fileID: 1748394071}
         m_MethodName: OpenDialogBox
         m_Mode: 1
         m_Arguments:

@@ -27,8 +27,8 @@ EditorBuildSettings:
     path: Assets/Scenes/BookProject/Page02.unity
     guid: 8d444b1f9c22bfd4caf2af61ccbc469d
   - enabled: 0
-    path: Assets/Scenes/BookProject/Throwaway/Page3.unity
-    guid: 4732a88738f0b68428c97926b8af4233
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/BookProject/Page03.unity
     guid: eb0767e6d48256d4e99bbef742a914cb
@@ -41,9 +41,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BookProject/Page6.unity
     guid: 971c7f779923a4b4cad2726c74449f5e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BookProject/Page7.unity
     guid: e3f9a2b2168b24640968860a52f3b1a7
+  - enabled: 1
+    path: Assets/Scenes/BookProject/FluffyPage7.unity
+    guid: 8bdf7443214adeb49bbfa4a84e134e23
   - enabled: 1
     path: Assets/Scenes/BookProject/Page8.unity
     guid: 95dc57994b1d65247b3074e73186f5ba
