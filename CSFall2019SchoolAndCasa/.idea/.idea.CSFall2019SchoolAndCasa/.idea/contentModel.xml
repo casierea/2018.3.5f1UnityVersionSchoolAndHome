@@ -223,9 +223,6 @@
             <e p="TriggerEventbehaviour.cs" t="Include" />
             <e p="UpClickMouse.cs" t="Include" />
           </e>
-          <e p="Character" t="Include">
-            <e p="CharacterMover02.cs" t="Include" />
-          </e>
           <e p="CharacterMove.cs" t="Include" />
           <e p="Collections.cs" t="Include" />
           <e p="CoRoutines2.cs" t="Include" />
