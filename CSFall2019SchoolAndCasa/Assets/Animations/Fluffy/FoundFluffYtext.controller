@@ -9,7 +9,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: on
+    m_ConditionEvent: on 0
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 3898274852256005187}
@@ -34,7 +34,7 @@ AnimatorController:
   m_Name: FoundFluffYtext
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: on
+  - m_Name: on 0
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -141,7 +141,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: on
+    m_ConditionEvent: on 0
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 6016512370288344445}
