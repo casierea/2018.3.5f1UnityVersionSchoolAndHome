@@ -190,6 +190,7 @@
             <e p="AiNavMesh.cs" t="Include" />
           </e>
           <e p="AnimController.cs" t="Include" />
+          <e p="AnimStates.cs" t="Include" />
           <e p="BookGame" t="Include">
             <e p="ButtonFire" t="Include">
               <e p="AmHand02.cs" t="Include" />
