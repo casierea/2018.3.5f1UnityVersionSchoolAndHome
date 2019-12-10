@@ -532,7 +532,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Have you met fluffy?
+  m_Text: Who dat!? Who dat!?
 --- !u!222 &166498673
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -702,7 +702,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You will know it is him Bc he is bright yellow! And is kind of wild.
+  m_Text: 'It''s fluffy! Try and find him! '
 --- !u!222 &183068914
 CanvasRenderer:
   m_ObjectHideFlags: 0
