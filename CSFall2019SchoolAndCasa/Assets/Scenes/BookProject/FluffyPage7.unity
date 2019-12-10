@@ -702,7 +702,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You will know it is him Bc he is Big and purple!
+  m_Text: You will know it is him Bc he is bright yellow! And is kind of wild.
 --- !u!222 &183068914
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1919,7 +1919,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1203907047
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2062,6 +2062,17 @@ MonoBehaviour:
           m_StringArgument: Change
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 709937222}
+        m_MethodName: SetTrigger
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: on
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!65 &1238221453
@@ -2085,12 +2096,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1238221451}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.3, y: 4, z: 25.6}
-  m_LocalScale: {x: 37.885925, y: 14.902684, z: 3.6173508}
+  m_LocalPosition: {x: 2.3, y: 7.3, z: 25.6}
+  m_LocalScale: {x: 11.38913, y: 7.277417, z: 2.1869416}
   m_Children:
   - {fileID: 1427000130}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1324205287
 GameObject:
@@ -2296,7 +2307,7 @@ Transform:
   m_Children:
   - {fileID: 385160552}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1403362363
 GameObject:
@@ -2526,7 +2537,6 @@ GameObject:
   - component: {fileID: 1427000128}
   - component: {fileID: 1427000127}
   - component: {fileID: 1427000131}
-  - component: {fileID: 1427000132}
   m_Layer: 0
   m_Name: TheRealFluffy
   m_TagString: Untagged
@@ -2564,7 +2574,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: f0c82d6ba8d6d13478b5cee9459ede14, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2600,8 +2610,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1427000126}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.029034527, y: -0.268408, z: -0.6911135}
-  m_LocalScale: {x: 0.13277103, y: 0.18154988, z: 0.12150246}
+  m_LocalPosition: {x: -0.05839138, y: -2.03, z: -0.6911136}
+  m_LocalScale: {x: 1.5942457, y: 0.22476557, z: 0.12150247}
   m_Children: []
   m_Father: {fileID: 1238221454}
   m_RootOrder: 0
@@ -2625,39 +2635,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1427000132
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1427000126}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 136b0b3b7117ca246ab27e2795a838a2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  OnMouseDownEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 709937227}
-        m_MethodName: set_enabled
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  OnmouseUpEvent:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!224 &1493656068 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5890501646382542902, guid: 702efcb1ed6341d4b898fcfb5808b4c9,
@@ -3275,7 +3252,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1869351790
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3789,7 +3766,7 @@ PrefabInstance:
     - target: {fileID: 5890501646382542897, guid: 702efcb1ed6341d4b898fcfb5808b4c9,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5890501646382542902, guid: 702efcb1ed6341d4b898fcfb5808b4c9,
         type: 3}
@@ -3895,6 +3872,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5890501646382542900, guid: 702efcb1ed6341d4b898fcfb5808b4c9,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Page8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 702efcb1ed6341d4b898fcfb5808b4c9, type: 3}
