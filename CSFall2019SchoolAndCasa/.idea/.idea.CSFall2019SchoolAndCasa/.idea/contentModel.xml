@@ -514,6 +514,11 @@
             </e>
           </e>
         </e>
+        <e p="Swamp_house 1" t="Include">
+          <e p="Org_Model" t="Include">
+            <e p="Credits.txt" t="Include" />
+          </e>
+        </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Examples &amp; Extras" t="Include">
             <e p="Fonts" t="Include">
@@ -609,6 +614,7 @@
             </e>
           </e>
         </e>
+        <e p="TrigAnim.cs" t="Include" />
       </e>
       <e p="CSFall2019SchoolAndCasa.sln" t="IncludeFlat" />
       <e p="Library" t="ExcludeRecursive" />

@@ -5,9 +5,8 @@ public class CharacterMovePlease : MonoBehaviour
 {
     private CharacterController Controller;
 
-    public float Gravity = 9.81f;
-    public float MoveSpeed = 3.0f;
-    public float JumpSpeed = 4.0f;
+    private float Gravity = 9.81f;
+    public float MoveSpeed = 5.0f;
     private Vector3 rot;
 
 
@@ -27,14 +26,10 @@ public class CharacterMovePlease : MonoBehaviour
             // rotation.Set(0, Input.GetAxis("Vertical"), 0);
             // transform.Rotate(rotation);
             position = transform.TransformDirection(position);
-            print(position);
+            //print(position);
 
-            if (Input.GetButton("Jump"))
-            {
-                position.y = JumpSpeed;
-            }
+        
         }
-
 
         position.y -= Gravity * Time.deltaTime;
         Controller.Move(position * Time.deltaTime);
