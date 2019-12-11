@@ -201,6 +201,8 @@
               <e p="WeaponHandler.cs" t="Include" />
             </e>
             <e p="CastTheRay.cs" t="Include" />
+            <e p="CharacterMovePlease.cs" t="Include" />
+            <e p="CharacterMoverClass.cs" t="Include" />
             <e p="coin" t="Include">
               <e p="coin.cs" t="Include" />
               <e p="PaymentObj.cs" t="Include" />
