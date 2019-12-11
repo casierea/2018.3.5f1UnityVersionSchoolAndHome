@@ -2755,7 +2755,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!225 &810115008
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -3220,6 +3220,11 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 5890501646382542900, guid: 702efcb1ed6341d4b898fcfb5808b4c9,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Page9
+      objectReference: {fileID: 0}
     - target: {fileID: 5890501645546012900, guid: 702efcb1ed6341d4b898fcfb5808b4c9,
         type: 3}
       propertyPath: m_AnchorMin.x
@@ -3249,11 +3254,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.y
       value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890501646382542900, guid: 702efcb1ed6341d4b898fcfb5808b4c9,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Page9
       objectReference: {fileID: 0}
     - target: {fileID: 5890501645546012901, guid: 702efcb1ed6341d4b898fcfb5808b4c9,
         type: 3}
